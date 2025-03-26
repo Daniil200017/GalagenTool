@@ -1,6 +1,6 @@
 import requests
 from time import sleep
-BASE_URL: str = "https://cpmsalebot.ru/api"
+BASE_URL: str = "https://darkslategrey-swallow-788802.hostingersite.com/api"
 
 class CPMtool:
 
